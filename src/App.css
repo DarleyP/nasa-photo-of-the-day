@@ -21,13 +21,13 @@
   color: #61dafb;
 }
 
-.nasa-photo-wrapper{
+/* .nasa-photo-wrapper{
   display: flex;
   flex-direction: column;
   align-items: center;
 
-}
-.expalate{
+} */
+/* .expalate{
   max-width: 50%;
 
 }
@@ -35,4 +35,4 @@
 img{
   width: 60%;
   object-fit: cover;
-}
+} */
